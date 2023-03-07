@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Signup-Business-Seccion</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+ <!-- Favicons -->
+  <link href="assets/img/sec.jpg" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="newcss/update.css" rel="stylesheet">
+
+
+  <!-- =======================================================
+  * Template Name: Presento - v3.7.0
+  * Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+  <link
+     rel="stylesheet"
+     href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css"
+   />
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+</head>
+
+<body>
+
+  
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+    
+      <!-- Uncomment below if you prefer to use an image logo -->
+       <a href="index.html" class="logo me-auto"><img src="assets/img/sec.jpg" alt=""></a>
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="index.html">Home</a></li><i class="fa fa-home" style="color: indigo;"></i>
+          <li><a class="nav-link scrollto" href="loginballer.html">Login Baller</a></li><i class="fa fa-sign-in" style="color: indigo;"></i>
+
+           <li><a class="nav-link scrollto" href="loginbusiness.html">Login Business</a></li><i class="fa fa-sign-in" style="color: indigo;"></i>
+          <li><a href="blog.html">Blog</a></li><i class="fa fa-podcast" style="color: indigo;"></i>
+          
+          
+
+
+          <li><a class="nav-link scrollto" href="vibe.html">Songs</a></li><i class="fa fa-music fa-spin" style="color: indigo;"></i>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <a href="#about" class="get-started-btn scrollto" style="background: linear-gradient(to bottom, #bb3385 0%, #4b0082 100%);">Get Started</a>
+    </div>
+  </header>
+
+ 
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+   
+   <div class="row">
+
+
+    <div class="col-lg-5" style="background: linear-gradient(to bottom, #bb3385 0%, #4b0082 100%);">
+      <h2 style="color: white;font-weight: bolder;padding-top: 300px;padding-left: 25px;">Sign Up For Business</h2>
+
+    </div>
+
+
+    <div class="col-lg-6">
+      
+    
+<div class="container">
+  <form action="action_page.php" style="padding-top: 190px;">
+
+    
+    <select id="country" name="country">
+      <option value="australia">Afghanistan (+93)</option>
+      <option value="canada">Albania  (+355)</option>
+      <option value="usa">Algeria (+213)</option>
+      <option value="canada">American Samoa (+1)</option>
+      <option value="usa">Andorra (+376)</option>
+      <option value="canada">Angola (+244)</option>
+      <option value="usa">Anguilla  (+1)</option>
+      <option value="canada">Argentina  (+54)</option>
+      <option value="usa">Armenia (+374)</option>
+      <option value="canada">Aruba  (+297)</option>
+      <option value="usa">Australia (+61)</option>
+      <option value="canada">Austria  (+43)</option>
+      <option value="usa">Azerbaijan  (+994)</option>
+      <option value="canada">Bahamas  (+1)</option>
+      <option value="usa">Bahrain (+973)</option>
+      <option value="usa">Bangladesh  (+880)</option>
+      <option value="canada">Barbados (+1)</option>
+      <option value="usa">Belarus (+375)</option>
+      <option value="usa">Belgium (+32)</option>
+      <option value="canada">Belize (+501)</option>
+      <option value="usa">Benin (+229)</option>
+      <option value="canada">Bermuda  (+1)</option>
+      <option value="usa">Bhutan  (+975)</option>
+      <option value="canada">Botswana (+267)</option>
+      <option value="usa">Brazil  (+55)</option>
+      <option value="canada">British Virgin Islands (+1)</option>
+      <option value="usa">Brunei Darussalam (+673)</option>
+      <option value="usa">Bulgaria  (+359)</option>
+      <option value="canada">Burkina Faso (+226)</option>
+      <option value="usa">Burundi (+257)</option>
+      <option value="usa">Cambodia  (+855)</option>
+      <option value="canada">Cameroon (+237)</option>
+      <option value="usa">Canada  (+1)</option>
+      <option value="canada">Cape Verde (+238)</option>
+      <option value="usa">Cayman Islands  (+1)</option>
+      <option value="usa">Central African Rep  (+236)</option>
+      <option value="canada">Chad (+235)</option>
+      <option value="usa">Chile (56)</option>
+
+      <option value="usa">China (+86)</option>
+      <option value="usa">Colombia  (+57)</option>
+      <option value="canada">Comoros  (+269)</option>
+      <option value="usa">Congo (+242)</option>
+      <option value="usa">Cook Islands  (+682)</option>
+      <option value="canada">Costa Rica (+506)</option>
+      <option value="usa">Côte d'Ivoire (+225)</option>
+      <option value="canada">Croatia  (+385)</option>
+      <option value="usa">Cuba  (+53)</option>
+      <option value="usa">Curaçao (+599)</option>
+      <option value="canada">Cyprus (+357)</option>
+      <option value="usa">Czech Rep  (+420)</option>
+
+
+      <option value="usa">Dem. People's Rep. of Korea (+850)</option>
+      <option value="usa">Dem. Rep. of the Congo  (+243)</option>
+      <option value="canada">Denmark  (+45)</option>
+      <option value="usa">Diego Garcia  (+246)</option>
+      <option value="usa">Djibouti  (+253)</option>
+      <option value="canada">Dominica (+1)</option>
+      <option value="usa">Dominican Rep.  (+1)</option>
+      <option value="canada">Ecuador  (+593)</option>
+      <option value="usa">Egypt (+20)</option>
+      <option value="usa">Ethiopia(+251)</option>
+      <option value="canada">Falkland Islands (Malvinas)  (+500)</option>
+      <option value="usa">Faroe Islands (298)</option>
+      
+
+      <option value="usa">Finland (+358)</option>
+      <option value="usa">France  (+33)</option>
+      <option value="canada">French Guiana (+594)</option>
+      <option value="usa">French Polynesia  (+689)</option>
+      <option value="usa">Gabon (+241)</option>
+      <option value="canada">Gambia (+220)</option>
+      <option value="usa">Georgia (+995)</option>
+      <option value="canada">Germany  (+49)</option>
+      <option value="usa">Ghana (+233)</option>
+      <option value="usa">Greece  (+30)</option>
+      <option value="canada">Greenland  (+299)</option>
+      <option value="usa">Guadeloupe  (+590)</option>
+
+
+      <option value="usa">Guatemala (+502)</option>
+      <option value="usa">Guinea  (+224)</option>
+      <option value="canada">Haiti  (+509)</option>
+      <option value="usa">Honduras  (+504)</option>
+      <option value="usa">Hong Kong, China  (+852)</option>
+      <option value="canada">Hungary  (+36)</option>
+      <option value="usa">Iceland (+354)</option>
+      <option value="canada">India  (+91)</option>
+      <option value="usa">Indonesia (+62)</option>
+      <option value="usa">Iraq  (+964)</option>
+      <option value="canada">Ireland  (+353)</option>
+      <option value="usa">Israel  (+972)</option>
+
+
+       <option value="usa">Italy  (+39)</option>
+      <option value="usa">Jamaica (+1)</option>
+      <option value="canada">Japan  (+81)</option>
+      <option value="usa">Jordan (+962)</option>
+      <option value="usa">Kenya (+254)</option>
+      <option value="canada">Kuwait (+965)</option>
+      <option value="usa">Lebanon (+961)</option>
+      <option value="canada">Liberia  (+231)</option>
+      <option value="usa">Libya (+218)</option>
+      <option value="usa">Lithuania  (+370)</option>
+      <option value="canada">Madagascar   (+261)</option>
+      <option value="usa">Malawi (+265)</option>
+
+
+      <option value="usa">Malaysia (+60)</option>
+      <option value="usa">Maldives  (+960)</option>
+      <option value="canada">Mali (+223)</option>
+      <option value="usa">Malta (+356)</option>
+      <option value="usa">Mexico  (+52)</option>
+      <option value="canada">Monaco (+377)</option>
+      <option value="usa">Mongolia  (+976)</option>
+      <option value="canada">Montenegro (+382)</option>
+      <option value="usa">Morocco (+212)</option>
+      <option value="usa">Mozambique  (+258)</option>
+      <option value="canada">Namibia  (+264)</option>
+      <option value="usa">Netherlands (+31)</option>
+
+      
+
+      <option value="usa">New Caledonia (+687)</option>
+      <option value="usa">New Zealand (+64)</option>
+      <option value="canada">Niger  (+227)</option>
+      <option value="usa">Nigeria (+234)</option>
+      <option value="usa">Norway  (+47)</option>
+      <option value="canada">Oman (+968)</option>
+      <option value="usa">Pakistan  (+92)</option>
+      <option value="canada">Panama (+507)</option>
+      <option value="usa">Paraguay  (+51)</option>
+      <option value="canada">Philippines  (+63)</option>
+      <option value="usa">Poland  (+48)</option>
+
+      <option value="usa">Portugal  (+351)</option>
+      <option value="usa">Puerto Rico (+1)</option>
+      <option value="canada">Qatar  (+974)</option>
+      <option value="usa">Romania (+40)</option>
+      <option value="usa">Rwanda  (+250)</option>
+      <option value="canada">Samoa  (+685)</option>
+      <option value="usa">Saudi Arabia  (+966)</option>
+      <option value="canada">Senegal  (+221)</option>
+      <option value="usa">Serbia  (+381)</option>
+      <option value="canada">Seychelles (+248)</option>
+      <option value="usa">Sierra Leone  (+232)</option>
+
+      
+      <option value="usa">Singapore (+65)</option>
+      <option value="usa">Slovenia  (+386)</option>
+      <option value="canada">Somalia  (+252)</option>
+      <option value="usa">South Africa  (+27)</option>
+      <option value="usa">South Sudan (+211)</option>
+      <option value="canada">Spain  (+34)</option>
+      <option value="usa">Sudan (+249)</option>
+      <option value="canada">Swaziland  (+268)</option>
+      <option value="usa">Sweden  (+46)</option>
+      <option value="canada">Switzerland  (+41)</option>
+      <option value="usa">Syrian Arab Republic  (+963)</option>
+      
+
+      <option value="usa">Taiwan, China (+886)</option>
+      <option value="usa">Tajikistan  (+992)</option>
+      <option value="canada">Tanzania (+255)</option>
+      <option value="usa">Thailand  (+66)</option>
+      <option value="usa">Togo  (+228)</option>
+      <option value="canada">Tunisia  (+216)</option>
+      <option value="usa">Turkey  (+90)</option>
+      <option value="canada">Uganda (+256)</option>
+      <option value="usa">Ukraine (+380)</option>
+      <option value="canada">United Arab Emirates (+971)</option>
+      <option value="usa">United Kingdom  (+44)</option>
+
+
+       <option value="usa">United States  (+1)</option>
+      <option value="usa">United States Virgin Islands  (+1)</option>
+      <option value="canada">Uruguay  (+598)</option>
+      <option value="usa">Venezuela (Bolivarian Republic of)  (+58)</option>
+      <option value="usa">Viet Nam  (+84)</option>
+      <option value="canada">Zambia (+260)</option>
+      <option value="usa">Zimbabwe  (+263)</option>
+      
+
+    </select>
+ 
+    <input id="telNo" name="telNo" type="tel" placeholder="Phone Number" size="5
+    " />
+    
+    
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <hr>
+  <div style="padding-bottom: 30px;">
+    
+ 
+    <center><input type="submit" value="Submit" style="width: 30%;"></center>
+ </div>
+  </form>
+</div>
+
+
+
+</div>
+
+
+
+</div> 
+  </main><!-- End #main -->
+
+  
+ 
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+
+
+<script>
+   const phoneInputField = document.querySelector("#phone");
+   const phoneInput = window.intlTelInput(phoneInputField, {
+     utilsScript:
+       "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+   });
+ </script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "indigo",
+      "text": "#ffdddd"
+    },
+    "button": {
+      "background": "orangered"
+    }
+  },
+  "type": "opt-in",
+  "content": {
+    "message": "By Using Our Website You Agree To Our Use Of Cookies In Accordance With Our Cookie Policy\n",
+    "href": "https://policies.google.com/technologies/cookies?hl=en-US"
+  }
+});
+</script>
+</html>
